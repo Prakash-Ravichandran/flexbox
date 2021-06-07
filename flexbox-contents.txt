@@ -1,0 +1,17 @@
+
+1. Flexbox aims at providing 
+
+ a more efficient way to 
+  
+  * )lay out, 
+  * )align  , 
+  * )distribute space among items in a container - even when their size is unknown and/or dynamic (thus the word “flex”).
+
+  Why  Flexbox ? 
+
+  *) To give the container the ability to alter its items’ width/height (and order) to best fill the available space (mostly to accommodate to all kind of display devices and screen sizes)
+
+  * )  Flexbox is direction-agnostic  - as opposed to regular layouts ,,, block & inline works well for pages , but to support complex & large application they lag.
+
+
+Note : Flexbox is for small scale layouts , while grid is for large complex layouts.
